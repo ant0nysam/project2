@@ -1,17 +1,17 @@
 # Проект 2. "Анализ вакансий из HeadHunter"
 
 ## Оглавление
-[1. Описание проекта](https://github.com/ant0nysam/project2/blob/master/README.md#Описание-проекта)\
-[2. Какой кейс решаем](https://github.com/ant0nysam/project2/blob/master/README.md#Какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/ant0nysam/project2/blob/master/README.md#Краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/ant0nysam/project2/blob/master/README.md#Этапы-работы-над-проектом)\
-[5. Результат](https://github.com/ant0nysam/project2/blob/master/README.md#Результат)\
-[6. Выводы](https://github.com/ant0nysam/project2/blob/master/README.md#Выводы)
+[1. Описание проекта](#описание-проекта)\
+[2. Какой кейс решаем](#какой-кейс-решаем)\
+[3. Краткая информация о данных](#краткая-информация-о-данных)\
+[4. Этапы работы над проектом](#этапы-работы-над-проектом)\
+[5. Результат](#результат)\
+[6. Выводы](#выводы)
 
 ### Описание проекта
 Data Understanding для построения модели.
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/project2/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 
 ### Какой кейс решаем?
@@ -37,7 +37,7 @@ Data Understanding для построения модели.
 
 **employers_industries** - дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/project2/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 
 ### Этапы работы над проектом
@@ -49,13 +49,13 @@ Data Understanding для построения модели.
 
 4. Предметный анализ
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/project2/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 
 ### Результат:
 Данные проанализированы, составлены выводы по интересующим запросам.
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/project2/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 
 # Выводы
@@ -158,6 +158,6 @@ Data Understanding для построения модели.
 4. Корма для животных (производство) - 168300.0 руб/мес
 5. Зоомагазин - 167613.0 руб/мес
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/project2/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 Если информация по данному проекту покажется Вам интересной или полезной, то я буду очень Вам благодарен, если отметите репозиторий и профиль :star::star::star:-дами
